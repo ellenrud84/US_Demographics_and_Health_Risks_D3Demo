@@ -1,5 +1,4 @@
-# D3-challenge
-
+# United States Demographics and Health Risks
 In this demo I analyzed the current trends shaping people's lives, and create charts, graphs, and interactive elements to help readers understand my findings.
 
 I created a mock newspaper article assessing health risks facing particular demographics. 
